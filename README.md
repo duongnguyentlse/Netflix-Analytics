@@ -5,31 +5,9 @@
 </p>
 
 <p align="center">
-  Mô tả ngắn gọn về dự án của bạn. Cung cấp một cái nhìn tổng quan về những gì dự án này làm và mục tiêu của nó.
+  This project, "Netflix: Movie & TV Shows Analytics," aims to analyze the evolution and trends of content on Netflix over the years. Utilizing data from the "Netflix Movies and TV Shows" dataset on Kaggle, the analysis delves into various aspects such as genre preferences, content distribution across countries, audience demographics, and release patterns throughout the year.
+
+The primary goal of this project is to provide insights into the development of digital content on Netflix and understand the streaming service's focus on different types of content. By examining trends and patterns, the project seeks to answer key questions about Netflix's content strategy, audience targeting, and global distribution. Ultimately, it aims to offer valuable insights for researchers, analysts, and enthusiasts interested in the digital entertainment industry.
 </p>
 
-## Bắt Đầu
-Hướng dẫn cách bắt đầu với dự án của bạn. Bạn có thể cung cấp các bước cài đặt, yêu cầu và hướng dẫn sử dụng cơ bản.
 
-## Đóng Góp
-Nếu bạn muốn đóng góp vào dự án, xin vui lòng làm theo các bước dưới đây:
-1. Fork dự án
-2. Tạo một nhánh mới (`git checkout -b feature`)
-3. Commit thay đổi của bạn (`git commit -am 'Thêm tính năng mới'`)
-4. Push nhánh của bạn lên (`git push origin feature`)
-5. Tạo một yêu cầu Pull mới
-
-## Bản Quyền
-Dự án này được phân phối dưới giấy phép [Tên Giấy Phép]. Xem `LICENSE` để biết thêm chi tiết.
-
-## Liên Hệ
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất, xin vui lòng liên hệ với chúng tôi tại [email@example.com].
-
-## Người Đóng Góp
-Cảm ơn những người đã đóng góp vào dự án này bằng cách thêm tên và liên kết đến hồ sơ của họ.
-
-## Tài Nguyên Bổ Sung
-Liên kết đến bất kỳ tài liệu hữu ích hoặc tài nguyên mở rộng khác mà người dùng có thể tìm thấy hữu ích.
-
-## Bản Cảm Ơn
-Nếu có bất kỳ tài nguyên hoặc dự án mà bạn đã sử dụng, xin đề cập đến chúng ở đây.
