@@ -1,8 +1,5 @@
 <h1 align="center">Project Netflix Analytics</h1>
 
-<p align="center">
-  <img src="[[https://images.app.goo.gl/RTxHhjM39LhG8kii8](https://images.app.goo.gl/1yfrpG8xzKowrncq9)" width="300" height="200">
-</p>
 
 <p align="center">
 This project, "Netflix: Movie & TV Shows Analytics," aims to analyze the evolution and trends of content on Netflix over the years. Utilizing data from the "Netflix Movies and TV Shows" dataset on Kaggle, the analysis delves into various aspects such as genre preferences, content distribution across countries, audience demographics, and release patterns throughout the year.
