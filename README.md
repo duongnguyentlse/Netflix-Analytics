@@ -1,4 +1,4 @@
-<h1 align="center">Tên Dự Án Của Bạn</h1>
+<h1 align="center">Project Netflix Analytics</h1>
 
 <p align="center">
   <img src="[[https://images.app.goo.gl/RTxHhjM39LhG8kii8](https://images.app.goo.gl/1yfrpG8xzKowrncq9)" width="300" height="200">
