@@ -1,7 +1,7 @@
 <h1 align="center">Tên Dự Án Của Bạn</h1>
 
 <p align="center">
-  <img src="[https://images.app.goo.gl/RTxHhjM39LhG8kii8" width="300" height="200">
+  <img src="[[https://images.app.goo.gl/RTxHhjM39LhG8kii8](https://images.app.goo.gl/1yfrpG8xzKowrncq9)" width="300" height="200">
 </p>
 
 <p align="center">
