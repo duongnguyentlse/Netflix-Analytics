@@ -1,7 +1,7 @@
 <h1 align="center">Tên Dự Án Của Bạn</h1>
 
 <p align="center">
-  <img src="[https://url_to_your_project_image" alt="Project Image](https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg?w=2000)" width="300" height="200">
+  <img src="[https://images.app.goo.gl/RTxHhjM39LhG8kii8" width="300" height="200">
 </p>
 
 <p align="center">
