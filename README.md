@@ -1,10 +1,30 @@
-<h1 align="center">Project Netflix Analytics</h1>
+# Netflix Analytics - Analyse des Films et Séries TV  
 
+## Présentation  
+Ce projet explore l’évolution du catalogue Netflix, en analysant les **films et séries TV**, les **genres populaires**, les **pays de production** et le **public cible**.  
 
-<p>
-This project, "Netflix: Movie & TV Shows Analytics," aims to analyze the evolution and trends of content on Netflix over the years. Utilizing data from the "Netflix Movies and TV Shows" dataset on Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows), the analysis delves into various aspects such as genre preferences, content distribution across countries, audience demographics, and release patterns throughout the year.
+## Données  
+- **Source** : [Netflix Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
+- **Variables clés** : Titre, type, pays, date d'ajout, durée, genre, public cible  
 
-The primary goal of this project is to provide insights into the development of digital content on Netflix and understand the streaming service's focus on different types of content. By examining trends and patterns, the project seeks to answer key questions about Netflix's content strategy, audience targeting, and global distribution. Ultimately, it aims to offer valuable insights for researchers, analysts, and enthusiasts interested in the digital entertainment industry.
-</p>
+## Résultats Clés  
+- **Netflix privilégie les films** depuis 2015.  
+- **Les États-Unis dominent** la production, suivis de l’Inde et du Royaume-Uni.  
+- **Les genres les plus populaires** : International Movies, Dramas, Comédies.  
+- **Le public cible principal** : adultes et adolescents, avec une augmentation des contenus pour enfants depuis 2020.  
 
+## Tableau de Bord  
+- Évolution du catalogue Netflix par année  
+- Distribution des genres et des audiences  
+- Ajout de contenu par période de l’année  
 
+## Recommandations  
+1. Suivre les tendances pour prédire les futurs succès.  
+2. Adapter la stratégie marketing selon les audiences.  
+3. Étudier l'impact de la pandémie sur la production.  
+
+## Utilisation  
+1. **Cloner le projet** :
+   ```bash
+   git clone https://github.com/yourusername/netflix-analytics.git
+   cd netflix-analytics
