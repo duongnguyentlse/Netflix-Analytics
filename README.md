@@ -23,8 +23,3 @@ Ce projet explore l’évolution du catalogue Netflix, en analysant les **films 
 2. Adapter la stratégie marketing selon les audiences.  
 3. Étudier l'impact de la pandémie sur la production.  
 
-## Utilisation  
-1. **Cloner le projet** :
-   ```bash
-   git clone https://github.com/yourusername/netflix-analytics.git
-   cd netflix-analytics
